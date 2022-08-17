@@ -12,7 +12,7 @@ Develop a simple mobile application (using iOS Native toolsets) that does the fo
     - Total Precipitation (SUM of Total Precip (mm))
 - Contains two views
     - Text View - presents the above monthly summary data as text.
-    - Graphical View - presents the above monthly summary data graphically.
+    - Graphical View - presents the above monthly summary data graphically, with the months on the x-axis.
 
 Please provide project source and Xcode, documentation on how to build the program and an explanation on why you chose the tools/libraries used.
 
