@@ -14,7 +14,7 @@ Develop a simple mobile application (using iOS Native toolsets) that does the fo
     - Text View - presents the above monthly summary data as text.
     - Graphical View - presents the above monthly summary data graphically, with the months on the x-axis.
 
-Please provide project source and Xcode, documentation on how to build the program and an explanation on why you chose the tools/libraries used.
+Please provide project source and Xcode, documentation on how to build the program and an explanation on why you chose the tools/libraries used. Please keep in mind that the purpose of this exercise is not solely to provide a working solution. We are looking for candidates to demonstrate the principles and practices he/she feels are important in software engineering: dependency management, testing, project structure, data modelling, etc. 
 
 ### Submission
 Please email your response.
